@@ -1,0 +1,5 @@
+3 steps to a better coding experience:
+
+git clone git@github.com:X4/Calmar256-Light.git ~/.geany_theme
+ln -s $(pwd)/.geany_theme/filedefs/*.* ~/.config/geany/filedefs/
+ln -s $(pwd)/.geany_theme/colorschemes/*.* ~/.config/geany/colorschemes/
