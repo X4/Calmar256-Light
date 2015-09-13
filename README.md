@@ -1,4 +1,4 @@
-## Intro
+## About
 
 This Theme is inspired by the equivalent [Calmar256-Light](http://www.vim.org/scripts/script.php?script_id=1807) ColorScheme for Vim.
 
